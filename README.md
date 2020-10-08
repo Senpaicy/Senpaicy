@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a "https://github.com/Senpaicy">
-    <img src="images/3.png" alt="Logo" width="300" height="290">
+    <img src="images/3.png" alt="Logo" width="150" height="150">
   </a>
   <h1 align="center">✨Welcome to Senpaicy's Github✨</h1>
   <p align="center">
