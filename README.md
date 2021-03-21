@@ -1,8 +1,5 @@
 <br />
 <p align="center">
-  <a "https://github.com/Senpaicy">
-    <img src="images/3.png" alt="Logo" width="170" height="150">
-  </a>
   <h1 align="center">✨Welcome to Senpaicy's Github✨</h1>
   <p align="center">
     Cindy's experience with computer science.
@@ -21,19 +18,22 @@
     <a href="senpaicy@gmail.com">Email</a>
     ·
     <a href="https://www.linkedin.com/in/senpaicy/">LinkedIn</a>
+  <h2 algin="center">Github ReadMe Stat Cards:</h2>
+  <p flex-direction="column" display="flex" justify-content="center">
+    <a "http://www.github.com/senpaicy">
+         <img alt="stats" align="center" src="https://github-readme-stats.vercel.app/api?username=senpaicy&theme=dracula&show_icons=true&count_private=true" />
+    </a>
+    <a "http://www.github.com/senpaicy">
+        <img alt="wakatime" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=senpaicy&theme=dracula" />
+    </a>
+    <a "http://www.github.com/senpaicy">
+        <img alt="toplangs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpaicy&theme=dracula&show_icons=true&layout=compact" />
+    </a>
   </p>
+    </p>
 </p>
 
 ###
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=senpaicy&theme=dracula&show_icons=true&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpaicy&theme=dracula&show_icons=true&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=senpaicy&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=senpaicy&repo=HelloWorld&theme=dracula" />
-
-
-##
 - 🔭 I’m currently working on a project to translate words to asl.
 - 🌱 I’m currently learning how to optimize my code. (outside of school)
 - 👯 I’m looking to collaborate on business opportunities or coding projects.
