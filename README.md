@@ -26,14 +26,11 @@
 
 ###
 
-<a href="https://github.com/senpaicy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=senpaicy&theme=dracula&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/senpaicy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpaicy&theme=dracula&show_icons=true&layout=compact" />
-</a>
 
-<!--[![Cindy's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=senpaicy&theme=dracula&show_icons=true)](https://github.com/senpaicy/github-readme-stats)-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=senpaicy&theme=dracula&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpaicy&theme=dracula&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=senpaicy&theme=dracula" />
+
 
 ##
 - 🔭 I’m currently working on a project to translate words to asl.
