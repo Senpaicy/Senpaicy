@@ -30,6 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=senpaicy&theme=dracula&show_icons=true&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpaicy&theme=dracula&show_icons=true&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=senpaicy&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=senpaicy&repo=HelloWorld&theme=dracula" />
 
 
 ##
