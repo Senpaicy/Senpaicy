@@ -21,14 +21,14 @@
   <h2 algin="center">Github ReadMe Stat Cards:</h2>
   <p flex-direction="column" display="flex" justify-content="center">
     <a "http://www.github.com/senpaicy">
-         <img alt="stats" align="center" src="https://github-readme-stats.vercel.app/api?username=senpaicy&theme=dracula&show_icons=true&count_private=true" />
+         <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=senpaicy&theme=dracula&show_icons=true&count_private=true" />
     </a>
     <a "http://www.github.com/senpaicy">
-        <img alt="wakatime" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=senpaicy&theme=dracula" />
+        <img alt="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpaicy&theme=dracula&show_icons=true&layout=compact" />
     </a>
     <a "http://www.github.com/senpaicy">
-        <img alt="toplangs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpaicy&theme=dracula&show_icons=true&layout=compact" />
-    </a>
+        <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=senpaicy&theme=dracula" />
+  </a>
   </p>
     </p>
 </p>
