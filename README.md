@@ -1,39 +1,36 @@
-<br />
-<p align="center">
-  <h1 align="center">✨Welcome to Senpaicy's Github✨</h1>
-  <p align="center">
-    Cindy's experience with computer science.
-    <br />
-    <a href="https://github.com/Senpaicy?tab=repositories"><strong>Repositories »</strong></a>
-    <a href="https://github.com/Senpaicy?tab=projects"><strong>Projects »</strong></a>
-    <a href="https://github.com/Senpaicy?tab=packages"><strong>Packages »</strong></a>
-    <br />
-    <br />
-    <a "https://www.instagram.com/senpaicy/"><img src="images/ig.png" alt="Instagram" width="50" height="50"></a>
-    <a "senpaicy@gmail.com"><img src="images/logo-gmail.png" alt="Logo" width="50" height="50"> </a> 
-    <a "https://github.com/Senpaicy"> <img src="images/linkedin2.png" alt="Logo" width="50" height="50"></a>
-    <br />
-    <a href="https://www.instagram.com/senpaicy/">Instagram</a>
-    ·
-    <a href="senpaicy@gmail.com">Email</a>
-    ·
-    <a href="https://www.linkedin.com/in/senpaicy/">LinkedIn</a>
-  <h2 algin="center">Github ReadMe Stat Cards:</h2>
-  <p flex-direction="column" display="flex" justify-content="center">
-    <a "http://www.github.com/senpaicy">
-         <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=senpaicy&theme=dracula&show_icons=true&count_private=true" />
-    </a>
-    <a "http://www.github.com/senpaicy">
-        <img alt="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpaicy&theme=dracula&show_icons=true&layout=compact" />
-    </a>
-    <a "http://www.github.com/senpaicy">
-        <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=senpaicy&theme=dracula" />
-  </a>
-  </p>
-    </p>
-</p>
+# ✨𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗖𝗜𝗡𝗗𝗬'𝗦 𝗚𝗜𝗧𝗛𝗨𝗕✨
+  > "𝔗𝔥𝔢 𝔠𝔬𝔪𝔭𝔲𝔱𝔢𝔯 𝔦𝔰 𝔞 𝔪𝔬𝔯𝔬𝔫"
+  > ~ᵖᵉᵗᵉʳ ᵈʳᵘᶜᵏᵉʳ    
 
-###
+(っ◔◡◔)っ ♥ Welcome to Cindy's experience with computer science. I hope you enjoy your stay. ♥
+
+---
+[Repositories](https://github.com/Senpaicy?tab=repositories) »
+[Projects](https://github.com/Senpaicy?tab=projects) »
+[Packages](https://github.com/Senpaicy?tab=packages)
+
+---
+[![Resume](/images/resumelogo.png)](https://github.com/Senpaicy/Senpaicy/blob/main/ZHANG_CINDY_RESUME.pdf)
+[![LinkedIn](/images/linkedinlogo.png)](https://www.linkedin.com/in/senpaicy)
+[![Mail](/images/maillogo.png)](senpaicy@gmail.com)
+[![Instagram](/images/instagramlogo.png)](https://www.instagram.com/senpaicy/)
+
+---
+## Ways to Reach me:
+[Email](senpaicy@gmail.com)                                                                                                                                          
+[Instagram](https://www.instagram.com/senpaicy/)
+[LinkedIn](https://www.linkedin.com/in/senpaicy/)
+[Resume](https://github.com/Senpaicy/Senpaicy/blob/main/ZHANG_CINDY_RESUME.pdf)
+
+---
+## Github ReadMe Stat Cards
+![ReadMe Stats](https://github-readme-stats.vercel.app/api?username=senpaicy&theme=dracula&show_icons=true&count_private=true)
+![TopLang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=senpaicy&theme=dracula&show_icons=true&layout=compact)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=senpaicy&theme=dracula)
+
+
+---
+## More about me:
 - 🔭 I’m currently working on a project to translate words to asl.
 - 🌱 I’m currently learning how to optimize my code. (outside of school)
 - 👯 I’m looking to collaborate on business opportunities or coding projects.
