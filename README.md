@@ -7,7 +7,7 @@
 ## <div align="center">• 𝓁𝒾𝓃𝓀𝓈 •</div>
 <div align="center">
     <a href="https://www.instagram.com/senpaicy/"><img src="/images/instagramlogo.png" height="30px" hspace="5px"></a>
-    <a href="senpaicy@gmail.com"><img src="/images/maillogo.png" height="30px" hspace="5px"> </a>
+    <a href="mailto: senpaicy@gmail.com"><img src="/images/maillogo.png" height="30px" hspace="5px"> </a>
     <a href="https://www.linkedin.com/in/senpaicy"> <img src="/images/linkedinlogo.png" height="30px" hspace="5px"></a>
     <a href="https://github.com/Senpaicy/Senpaicy/blob/main/ZHANG_CINDY_RESUME.pdf"> <img src="/images/resumelogo.png" height="30px" hspace="5px"></a>
 </div>
