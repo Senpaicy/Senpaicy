@@ -11,6 +11,8 @@
     <a href="https://www.linkedin.com/in/senpaicy"> <img src="/images/linkedinlogo.png" height="30px" hspace="5px"></a>
     <a href="https://github.com/Senpaicy/Senpaicy/blob/main/ZHANG_CINDY_RESUME.pdf"> <img src="/images/resumelogo.png" height="30px" hspace="5px"></a>
 </div>
+</br>
+<div align="center"> 𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 • 𝐞𝐦𝐚𝐢𝐥 • 𝐥𝐢𝐧𝐤𝐞𝐝𝐢𝐧 • 𝐫𝐞𝐬𝐮𝐦𝐞 </div>
 
 ## <div align="center">• 𝒶𝒷𝑜𝓊𝓉 •</div>
 - 🔭 𝐢’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐚 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐭𝐨 𝐭𝐫𝐚𝐧𝐬𝐥𝐚𝐭𝐞 𝐰𝐨𝐫𝐝𝐬 𝐭𝐨 𝐚𝐬𝐥.
