@@ -19,7 +19,6 @@
      <img src="/images/resumelogo.png" height="40px" hspace="10px">
     </a>
 </div> 
-</br>
 <div display="flex" flex-direction="row" align="center"> 
  <a href="https://www.instagram.com/senpaicy/">𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦</a> • 
  <a href="mailto: senpaicy@gmail.com">𝐞𝐦𝐚𝐢𝐥</a> • 
