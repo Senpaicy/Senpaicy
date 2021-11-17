@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/senpaicy">
      <img src="/images/linkedinlogo.png" height="40px" hspace="10px">
     </a>
-    <a href="https://github.com/Senpaicy/Senpaicy/blob/main/ZHANG_CINDY_RESUME.pdf"> 
+    <a href="https://github.com/Senpaicy/Senpaicy/blob/main/ZHANG_RESUME.pdf"> 
      <img src="/images/resumelogo.png" height="40px" hspace="10px">
     </a>
 </div> 
@@ -23,7 +23,7 @@
  <a href="https://www.instagram.com/senpaicy/">𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦</a> • 
  <a href="mailto: senpaicy@gmail.com">𝐞𝐦𝐚𝐢𝐥</a> • 
  <a href="https://www.linkedin.com/in/senpaicy">𝐥𝐢𝐧𝐤𝐞𝐝𝐢𝐧</a> • 
- <a href="https://github.com/Senpaicy/Senpaicy/blob/main/ZHANG_CINDY_RESUME.pdf">𝐫𝐞𝐬𝐮𝐦𝐞</a> 
+ <a href="https://github.com/Senpaicy/Senpaicy/blob/main/ZHANG_RESUME.pdf">𝐫𝐞𝐬𝐮𝐦𝐞</a> 
 </div>
 
 ## <div align="center">• 𝒶𝒷𝑜𝓊𝓉 •</div>
