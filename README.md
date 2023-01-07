@@ -14,7 +14,7 @@ img[src*=#instagram"] {
     height: 50px;
 }
 
-[![instagram](/logos/instagram.png#thumbnail)][1]
+[![instagram](/logos/instagram.png#instagram)][1]
 [![linkedin](/logos/linkedin.png)][2]
 [!]
 
