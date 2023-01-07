@@ -1,36 +1,25 @@
 # <div align="center">✨𝔀𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓬𝓲𝓷𝓭𝔂'𝓼 𝓰𝓲𝓽𝓱𝓾𝓫✨</div>
-> "𝔗𝔥𝔢 𝔠𝔬𝔪𝔭𝔲𝔱𝔢𝔯 𝔦𝔰 𝔞 *𝔪𝔬𝔯𝔬𝔫*"
->  ~ᵖᵉᵗᵉʳ ᵈʳᵘᶜᵏᵉʳ    
 
- ```Welcome to Cindy's experience with computer science. I hope you enjoy your stay.```
-[1]: https://www.instagram.com/senpaicy
-[2]: https://www.linkedin.com/in/senpaicy
-[3]: zhancin23@outlook.com 
-[4]: https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Resume_Updated.pdf
-[5]: https://www.instagram.com/cinbis_aert/
+> "The Computer is a moron."
+>  - Peter Drucker   
 
-img[src*=#instagram"] {
-    width: 50px;
-    height: 50px;
-}
-
-[![instagram](/logos/instagram.png#instagram)][1]
-[![linkedin](/logos/linkedin.png)][2]
-[!]
+```js
+    console.log("Welcome to Cindy's experience with computer science. I hope you enjoy your stay.");
+```
 
 ## <div align="center">• 𝓁𝒾𝓃𝓀𝓈 •</div>
 <div align="center">
     <a href="https://www.instagram.com/senpaicy/">
-     <img src="/images/instagramlogo.png" height="40px" hspace="10px">
+     <img src="/logos/instagram.png" height="40px" hspace="10px">
     </a>
     <a href="mailto: senpaicy@gmail.com">
-     <img src="/images/maillogo.png" height="40px" hspace="10px"> 
+     <img src="/logos/at.png" height="40px" hspace="10px"> 
     </a>
     <a href="https://www.linkedin.com/in/senpaicy">
-     <img src="/images/linkedinlogo.png" height="40px" hspace="10px">
+     <img src="/logos/linkedin.png" height="40px" hspace="10px">
     </a>
     <a href="https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Resume_Updated.pdf"> 
-     <img src="/images/resumelogo.png" height="40px" hspace="10px">
+     <img src="/logos/document" height="40px" hspace="10px">
     </a>
 </div> 
 <div display="flex" flex-direction="row" align="center"> 
