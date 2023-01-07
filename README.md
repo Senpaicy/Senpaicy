@@ -9,8 +9,12 @@
 [4]: https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Resume_Updated.pdf
 [5]: https://www.instagram.com/cinbis_aert/
 
+img[src*=#instagram"] {
+    width: 50px;
+    height: 50px;
+}
 
-[![instagram|50x50](/logos/instagram.png)][1]
+[![instagram](/logos/instagram.png#thumbnail)][1]
 [![linkedin](/logos/linkedin.png)][2]
 [!]
 
