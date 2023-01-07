@@ -3,6 +3,15 @@
 >  ~ᵖᵉᵗᵉʳ ᵈʳᵘᶜᵏᵉʳ    
 
  ```Welcome to Cindy's experience with computer science. I hope you enjoy your stay.```
+[1]: https://www.instagram.com/senpaicy
+[2]: https://www.linkedin.com/in/senpaicy
+[3]: zhancin23@outlook.com 
+[4]: https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Resume_Updated.pdf
+[5]: https://www.instagram.com/cinbis_aert/
+
+<link rel="stylesheet" href=""/>
+
+[![instagram](https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200)][1]
 
 ## <div align="center">• 𝓁𝒾𝓃𝓀𝓈 •</div>
 <div align="center">
