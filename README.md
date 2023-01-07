@@ -19,7 +19,7 @@
      <img src="/logos/linkedin.png" height="40px" hspace="10px">
     </a>
     <a href="https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Resume_Updated.pdf"> 
-     <img src="/logos/document" height="40px" hspace="10px">
+     <img src="/logos/document.png" height="40px" hspace="10px">
     </a>
 </div> 
 <div display="flex" flex-direction="row" align="center"> 
