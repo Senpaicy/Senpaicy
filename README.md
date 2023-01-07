@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/senpaicy">
      <img src="/images/linkedinlogo.png" height="40px" hspace="10px">
     </a>
-    <a href="https://github.com/Senpaicy/Senpaicy/blob/main/ZHANG_RESUME.pdf"> 
+    <a href="https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Res.pdf"> 
      <img src="/images/resumelogo.png" height="40px" hspace="10px">
     </a>
 </div> 
