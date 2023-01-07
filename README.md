@@ -10,7 +10,7 @@
 [5]: https://www.instagram.com/cinbis_aert/
 
 
-[![instagram](/logos/instagram.png | width=50)][1]
+[![instagram|50x50](/logos/instagram.png)][1]
 [![linkedin](/logos/linkedin.png)][2]
 [!]
 
