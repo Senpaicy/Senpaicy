@@ -1,30 +1,31 @@
 # <div align="center">✨𝔀𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓬𝓲𝓷𝓭𝔂'𝓼 𝓰𝓲𝓽𝓱𝓾𝓫✨</div>
 
 > "The Computer is a moron."
->  - Peter Drucker   
+>  *Peter Drucker*
 
 ```js
-    console.log("Welcome to Cindy's experience with computer science. I hope you enjoy your stay.");
+    console.log("no favoritism towards javascript or anything...");
 ```
 
 ## <div align="center">• 𝓁𝒾𝓃𝓀𝓈 •</div>
 <div align="center">
     <a href="https://www.instagram.com/senpaicy/">
-     <img src="/logos/instagram.png" height="40px" hspace="10px">
+     <img src="/logos/instagram.png" width="50px" hspace="10px">
     </a>
-    <a href="mailto: senpaicy@gmail.com">
-     <img src="/logos/at.png" height="40px" hspace="10px"> 
+    <a href="mailto: zhancin23@outlook.com">
+     <img src="/logos/at.png" width="50px" hspace="10px"> 
     </a>
     <a href="https://www.linkedin.com/in/senpaicy">
-     <img src="/logos/linkedin.png" height="40px" hspace="10px">
+     <img src="/logos/linkedin.png" width="50px" hspace="10px">
     </a>
-    <a href="https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Resume_Updated.pdf"> 
-     <img src="/logos/document.png" height="40px" hspace="10px">
+    <a href="/documents/Zhang_Cindy_Resume_Updated.pdf"> 
+     <img src="/logos/document.png" width="50px" hspace="10px">
     </a>
 </div> 
+
 <div display="flex" flex-direction="row" align="center"> 
  <a href="https://www.instagram.com/senpaicy/">𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦</a> • 
- <a href="mailto: senpaicy@gmail.com">𝐞𝐦𝐚𝐢𝐥</a> • 
+ <a href="mailto: zhancin23@outlook.com">𝐞𝐦𝐚𝐢𝐥</a> • 
  <a href="https://www.linkedin.com/in/senpaicy">𝐥𝐢𝐧𝐤𝐞𝐝𝐢𝐧</a> • 
  <a href="https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Resume_Updated.pdf">𝐫𝐞𝐬𝐮𝐦𝐞</a> 
 </div>
