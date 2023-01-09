@@ -92,11 +92,11 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50px" hspace="10px"/> 
     </a> 
-</p>
-<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50px" hspace="10px"/> 
     </a> 
+</p>
+<p align="center">
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50px" hspace="10px"/> 
     </a> 
@@ -115,8 +115,6 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="50px" hspace="10px"/> 
     </a> 
-</p>
-<p align="center">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50px" hspace="10px"/> 
     </a> 
@@ -148,11 +146,11 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="50px" hspace="10px"/> 
     </a>
-</p>
-<p align="center"> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50px" hspace="10px"/> 
     </a> 
+</p>
+<p align="center"> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50px" hspace="10px"/> 
     </a> 
@@ -171,14 +169,14 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="50px" hspace="10px"/> 
     </a> 
-</p>
-<p align="center">
     <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" height="50px" hspace="10px"/> 
     </a> 
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="50px" hspace="10px"/> 
     </a> 
+</p>
+<p align="center">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50px" hspace="10px"/> 
     </a> 
@@ -194,8 +192,6 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="50px" hspace="10px"/> 
     </a> 
-</p>
-<p align="center">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50px" hspace="10px"/> 
     </a> 
