@@ -53,7 +53,20 @@
 
 ## <div align="center">• 𝓈𝓉𝒶𝓉𝓈 •</div>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=senpaicy&theme=monokai&border_radius=5&date_format=j%20M%5B%20Y%5D" />
+    <img align="center" src="" />
+</p>
+<p align="center">
+    <picture>
+        <source 
+          srcset="https://github-readme-streak-stats.herokuapp.com?user=senpaicy&theme=monokai&border_radius=5&date_format=j%20M%5B%20Y%5D"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-streak-stats.herokuapp.com?user=senpaicy&theme=blood&date_format=j%20M%5B%20Y%5D"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=senpaicy&show_icons=true" />
+    </picture>
 </p>
 <p align="center">
     <picture>
