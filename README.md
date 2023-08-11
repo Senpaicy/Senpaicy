@@ -11,9 +11,6 @@
 
 </br>
 
-> "The Computer is a moron."
->  *Peter Drucker*
-
 ## <div align="center">• 𝒶𝒷𝑜𝓊𝓉 •</div>
 - 🔭 𝐢'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠 𝐦𝐲 𝐬𝐪𝐥 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐩𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲.
 - 🌱 𝐢’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 **𝐚𝐰𝐬, 𝐠𝐜𝐩, 𝐚𝐧𝐝 𝐚𝐳𝐮𝐫𝐞**
@@ -53,9 +50,6 @@
 
 ## <div align="center">• 𝓈𝓉𝒶𝓉𝓈 •</div>
 <p align="center">
-    <img align="center" src="" />
-</p>
-<p align="center">
     <picture>
         <source 
           srcset="https://github-readme-streak-stats.herokuapp.com?user=senpaicy&theme=monokai&border_radius=5&date_format=j%20M%5B%20Y%5D"
@@ -85,54 +79,40 @@
 ## <div align="center">• 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 •</div>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50px" hspace="10px"/> 
+        .c 
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="50px" hspace="10px"/> 
+        .cpp 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  height="50px" hspace="10px"/> 
+        .css
     </a> 
     <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" height="50px" hspace="10px" /> 
+        .erl 
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50px" hspace="10px" /> 
+        .sh 
     </a>  
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50px" hspace="10px"/> 
+        .html
     </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50px" hspace="10px"/> 
+        .java
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50px" hspace="10px"/> 
+        .js
     </a> 
-</p>
-<p align="center">
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50px" hspace="10px"/> 
+        .php 
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50px" hspace="10px"/> 
+        .py
     </a>     
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50px" hspace="10px"/> 
-    </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="50px" hspace="10px"/> 
-    </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="50px" hspace="10px"/> 
+        .jsx
     </a> 
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="50px" hspace="10px"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50px" hspace="10px"/> 
-    </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="50px" hspace="10px"/> 
+        .sass 
     </a>  
 </p>
 
