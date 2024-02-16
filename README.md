@@ -20,7 +20,7 @@
 
 ## <div align="center">• 𝓇𝑒𝓈𝓊𝓂𝑒 •</div>
 ```
-    https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Resume.docx.pdf
+    https://github.com/Senpaicy/Senpaicy/blob/main/Zhang_Cindy_Resume%202024.pdf
 ```
 
 ## <div align="center">• 𝒸𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒 •</div>
